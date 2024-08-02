@@ -27,20 +27,17 @@ Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrak
 
 ### Celestial Veil Amulet
 Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.<br>
-Dropped by Khanrock the Bloodforged. Use the Celestial Veil Amulet to unlock “corrupted” files in the Dark Branch. 
+Dropped by Khanrock the Bloodforged. Use the Celestial Veil Amulet to unlock chests in the Dark Branch. 
 
 ## Part 3
-The first part of the book has been acquired. The **Dark realm(branch)** awaits you. The air is thick with the noxious fumes of corruption, and the ground beneath is stained with the ichor of the damned. And here, beyond the ominous shadows and malevolent forces, lies the gateway to the second half of the scriptures…<br>
+The first part of the book (Light Book) has been acquired. The **Dark realm(branch)** awaits you. The air is thick with the noxious fumes of corruption, and the ground beneath is stained with the ichor of the damned. And here, beyond the ominous shadows and malevolent forces, lies the gateway to the second half of the scriptures…<br>
 <br>
-It seems the chaos has ripped apart space time itself of the Dark Realm. Traversing through these unforgiving environments might be impossible, but the Celestial Veil serves as the beacon for the lost Astarte.<br>
-Use the **Celestial Veil Amulet** to unlock “corrupted” files to be found in the branches Dark Realm I and II.
-### The Shadowforged Blade of Eclipsar
-This dark and ominous weapon is said to be forged in the heart of Umbrafall, bathed in the corrupted energies that permeate the accursed realm. The blade is known for its ability to absorb and channel the malevolent forces that linger within Umbrafall, granting its wielder the power to unleash devastating attacks and tap into the shadows themselves. However, the allure of such power comes at a cost, as the blade hungers for the life force of those it strikes, leaving a chilling and haunting aura in its wake.<br>
-Truly a handy and effective weapon against the heretics.
+It seems the chaos has ripped apart space time itself of the Dark Realm splitting it into two. Traversing through these unforgiving environments might be impossible, but the Celestial Veil serves as the beacon for the lost Astarte.
+Use the **Celestial Veil Amulet** to unlock the chests found in branches *Dark Realm I* and *II*.
 
 ## Part 4
-Now, in possession of both halves of the corrupted book, the time has come to unite the separated halves, to forge a union that transcends the fractured abyss. However, an unforeseen conflict arises as the halves reveal a corruption that resists even the sanctifying influence of the **Celestial Veil Amulet**.<br>
-Resolve conflicts in the “corrupted” branches **DarkBranch I and II** by editing the files and then merge them. Gather and combine all the codes you have acquired and decode it to get the link to the GodSuite repository. Clone this repo to continue with the next part of the task.
+
+Now, in possession of both halves of the corrupted book, the time has come to unite the separated halves to forge a union that transcends the fractured abyss. Gather and combine the four codes you have acquired from each part and decode it to get the link to the GodSuite repository. Clone this repo to continue with the next part of the task.
 
 ## Part 5: Welcome to GodSuite
 As the beacon of hope resurrects to its true glory, the **GodSuite** branch is born. The book represents the young boy himself. Each commit, a distinct chapter, encapsulating the trials, growth, and eventual transcendence. The word **"portal”** acts as a key, a thread that weaves through the narrative, revealing the location of the machine that propelled the boy toward his godly destiny. Check through all commits, and you might also meet the same fate..
