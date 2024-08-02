@@ -1,4 +1,4 @@
-('/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+('/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
  'Caves/Entrance3/01/01D/.01/narrow '
  'path/path/0D/02/01/Chamber/linuxDist/build/Chest/Chest',
  True,
@@ -14,32 +14,32 @@
  None,
  None,
  None,
- '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+ '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
  'Caves/Entrance3/01/01D/.01/narrow '
  'path/path/0D/02/01/Chamber/linuxDist/build/Chest/Chest.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/localpycs/struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/localpycs/pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/localpycs/pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/localpycs/pyimod03_ctypes.pyc',
    'PYMODULE'),
@@ -50,14 +50,14 @@
    '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
    'PYSOURCE'),
   ('Chest',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/Chest.py',
    'PYSOURCE')],
  [],
  False,
  False,
- 1721296811,
+ 1722632306,
  [('run',
    '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/bootloader/Linux-64bit-intel/run',
    'EXECUTABLE')],

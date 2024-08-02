@@ -1,7 +1,7 @@
-(['/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+(['/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
   'Caves/Entrance3/01/01D/.01/narrow '
   'path/path/0D/02/01/Chamber/linuxDist/Chest.py'],
- ['/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+ ['/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
   'Caves/Entrance3/01/01D/.01/narrow path/path/0D/02/01/Chamber/linuxDist'],
  [],
  ['/home/aman/.local/lib/python3.10/site-packages/_pyinstaller_hooks_contrib/hooks/stdhooks',
@@ -19,7 +19,7 @@
    '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
    'PYSOURCE'),
   ('Chest',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/Chest.py',
    'PYSOURCE')],
@@ -187,8 +187,8 @@
   ('lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so',
    '/usr/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so',
    'EXTENSION'),
-  ('libz.so.1', '/lib/x86_64-linux-gnu/libz.so.1', 'BINARY'),
   ('libexpat.so.1', '/lib/x86_64-linux-gnu/libexpat.so.1', 'BINARY'),
+  ('libz.so.1', '/lib/x86_64-linux-gnu/libz.so.1', 'BINARY'),
   ('libmpdec.so.3', '/lib/x86_64-linux-gnu/libmpdec.so.3', 'BINARY'),
   ('libcrypto.so.3', '/lib/x86_64-linux-gnu/libcrypto.so.3', 'BINARY'),
   ('liblzma.so.5', '/lib/x86_64-linux-gnu/liblzma.so.5', 'BINARY'),
@@ -196,7 +196,7 @@
  [],
  [],
  [('base_library.zip',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
    'Caves/Entrance3/01/01D/.01/narrow '
    'path/path/0D/02/01/Chamber/linuxDist/build/Chest/base_library.zip',
    'DATA')])

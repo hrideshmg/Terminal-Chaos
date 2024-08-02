@@ -1,4 +1,4 @@
-('/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
+('/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
  'Caves/Entrance3/01/01D/.01/narrow '
  'path/path/0D/02/01/Chamber/linuxDist/build/Chest/PYZ-00.pyz',
  [('_compat_pickle', '/usr/lib/python3.10/_compat_pickle.py', 'PYMODULE'),
