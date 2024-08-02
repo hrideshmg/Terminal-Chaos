@@ -1,26 +1,29 @@
-# Terminal Chaos - User Edition 
-Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!<br>
-<br>
-Clone this repository to your local system using a git command. Create 'Handbook' directory in your task directory in 'amfoss-tasks'. Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook** directory using `nano` or any of your favourite **text-editors**. Push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
-Open the Handbook directory in a seperate Terminal so that you can have it ready at all times, making it easier to store and get codes.<br>
-<br>
-You can now get started with the task, by entering Arrakis-dex using the command `cd Arrakis-dex`. Good luck.
+# Terminal Chaos
+Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!<hr>
+This task aims to familiarise you with basic **terminal and git commands** in a fun and interactive way. You can refer to the following [resource](https://linuxjourney.com/lesson/the-shell) for a primer on terminal commands. We expect you to find the rest yourself via googling, good luck :)
+
+Clone this repository to your local system using `git clone`. Create a 'Handbook' directory on your system. Make sure to store all the codes for weapons, artifacts and keys that you will find as part of this task as text files to your **Handbook** directory using `nano` or any of your favourite **text-editors**. Push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br><br>
+You can now get started with this task, by entering Arrakis-dex using the command `cd Terminal-Chaos/Arrakis-dex`
 ## Part 1
-Check your current location using the command `pwd`. A deadly sandstorm, Vortex of Desolation, is impending. Use the comand `cd <path of directory>` to get to safety before it catches up!!!<br>
-The Eolian caves are dark indeed. You sense a breeze coming from some hidden path. Light up the room using a more powerful `ls` command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.<br>
-Hint: When faced with identical paths make use of `du -h -d 1` to analyze the depth of the paths. Follow the path with the least depth.
+Check your surroundings using the command `ls`. A deadly sandstorm - *Vortex of Desolation*, is impending. Use the comand `cd <path of directory>` to get to safety before it catches up! <br>*(preferably somewhere where you have a roof over your head)*<br><br>
+The Eolian Caves are dark indeed. You sense a breeze coming from a hidden tunnel. Light up the room using a more powerful `ls` command. Explore the mysterious cave to find the **parchment** that will lead you to your destiny.<br>
+**Hint**: If you're confused on where to go, make use of the `tree` command for guidance.
 
-Once you have reached the deepest end of the entrance, run **sy.py** before you move forward with the task.
-Seek out the elusive document that only has read-only permissions for the user.
+Get the hidden code from the parchment using the `cat` command and store it in the Handbook.
 
-Get the hidden code from the file using the `cat` command and store it in the Handbook ...
+If you're unable to read the contents of the parchment, you might need to activate (or run) the ancient **medallion**
 
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light.<br>
-Use `git checkout <branch name>` to switch between realms overriding the seals.Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
+Use `git checkout <branch name>` to switch between the realms, overriding the seals. Explore the realms and be on the lookout for collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ### Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.<br>
-Use linux command to search for all **“holy"** and **"good”** herbs. Then replace each letter in the encoded phrase with the letter that comes before it. Concatenate the herbs with the first one being the word containing ‘oo’ in it. Remove all vowels from the final code and voila, you have made yourself a holy spell.
+
+#### How to brew a holy spell
+1) Use grep to search for herbs which are **“holy"** and **"good”**
+2) Join all found herb names together with the one having 'oo' in it's name being the first.
+3) Replace each letter in this combination with the letter that comes before it.
+4) Remove all vowels from the final code and voila, you have made yourself a holy spell.
 
 ### Celestial Veil Amulet
 Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.<br>
