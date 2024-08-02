@@ -1,6 +1,7 @@
-([('Khanrock-the-Bloodforged',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
-   'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Khanrock-the-Bloodforged/Khanrock-the-Bloodforged',
+([('Kharnok the BloodForged',
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Kharnok the '
+   'BloodForged/Kharnok the BloodForged',
    'EXECUTABLE'),
   ('libpython3.10.so.1.0',
    '/lib/x86_64-linux-gnu/libpython3.10.so.1.0',
@@ -56,9 +57,10 @@
   ('libcrypto.so.3', '/lib/x86_64-linux-gnu/libcrypto.so.3', 'BINARY'),
   ('liblzma.so.5', '/lib/x86_64-linux-gnu/liblzma.so.5', 'BINARY'),
   ('libbz2.so.1.0', '/lib/x86_64-linux-gnu/libbz2.so.1.0', 'BINARY'),
-  ('libtinfo.so.6', '/lib/x86_64-linux-gnu/libtinfo.so.6', 'BINARY'),
   ('libncursesw.so.6', '/lib/x86_64-linux-gnu/libncursesw.so.6', 'BINARY'),
+  ('libtinfo.so.6', '/lib/x86_64-linux-gnu/libtinfo.so.6', 'BINARY'),
   ('base_library.zip',
-   '/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
-   'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Khanrock-the-Bloodforged/base_library.zip',
+   '/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Kharnok the '
+   'BloodForged/base_library.zip',
    'DATA')],)

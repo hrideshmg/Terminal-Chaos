@@ -1,5 +1,6 @@
-('/home/aman/Desktop/amFOSS/praveshan-2024/terminal-chaos/Terminal-Chaos/Arrakis-dex/Eolian '
- 'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Khanrock-the-Bloodforged/PYZ-00.pyz',
+('/home/aman/Desktop/aug2/Terminal-Chaos/Arrakis-dex/Eolian '
+ 'Caves/Entrance3/01/01L/01/02/01/02/01/Citadel/linuxDist/build/Kharnok the '
+ 'BloodForged/PYZ-00.pyz',
  [('_compat_pickle', '/usr/lib/python3.10/_compat_pickle.py', 'PYMODULE'),
   ('_compression', '/usr/lib/python3.10/_compression.py', 'PYMODULE'),
   ('_py_abc', '/usr/lib/python3.10/_py_abc.py', 'PYMODULE'),
